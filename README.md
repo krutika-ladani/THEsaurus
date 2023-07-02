@@ -29,7 +29,7 @@ To run THEsaurus offline thesaurus application, ensure that you have the followi
    ```
 
 4. The Jupyter Notebook interface should open in your web browser.
-5. Navigate to the project directory and open the `THEsaurus.ipynb` file.
+5. Navigate to the project directory and open the `DICTIONARY_APPLICATION.ipynb` file.
 6. Run the notebook cells one by one to load the application and start using THEsaurus.
 7. Enter a word in the search bar and press Enter or click the search button to retrieve its synonyms and antonyms.
 8. Explore the application by interacting with the user interface elements and using the available features.
