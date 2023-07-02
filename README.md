@@ -39,5 +39,5 @@ To run THEsaurus offline thesaurus application, ensure that you have the followi
 
 The project repository contains the following files:
 
-- `THEsaurus.ipynb`: The Jupyter Notebook file that implements the THEsaurus application using Tkinter and handles user interactions.
-- ``: The thesaurus database file in JSON format. It contains a collection of words and their corresponding synonyms and antonyms.
+- `DICTIONARY_APPLICATION.ipynb`: The Jupyter Notebook file that implements the THEsaurus application using Tkinter and handles user interactions.
+- `OPTED-Dictionary.csv`: The dictionary database file in CSV format. It contains a collection of words and their corresponding meanings.
